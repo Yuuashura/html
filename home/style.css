@@ -6,7 +6,8 @@
 }
 
 body {
-    background: linear-gradient(to right ,#797b67, hsl(211, 20%, 46%));
+/*     background: linear-gradient(to right ,#797b67, hsl(211, 20%, 46%)); */
+        background: url("https://files.catbox.moe/mr5ejl.jpg");
     min-height: 100vh;
 }
 
